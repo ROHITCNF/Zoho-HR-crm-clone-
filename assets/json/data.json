@@ -1,0 +1,1400 @@
+{
+    "softwareDeveloper": {
+        "new": [
+            {
+                "name": "Neeraj",
+                "position": "SDE1",
+                "imageAssetPath": "neeraj.png",
+                "skills": [
+                    "JS",
+                    "Flutter",
+                    "AWS"
+                ]
+            },
+            {
+                "name": "John",
+                "position": "SDE2",
+                "imageAssetPath": "john.png",
+                "skills": [
+                    "Python",
+                    "React",
+                    "SQL"
+                ]
+            },
+            {
+                "name": "Sarah",
+                "position": "SDE2",
+                "imageAssetPath": "sarah.png",
+                "skills": [
+                    "Java",
+                    "React",
+                    "Docker"
+                ]
+            },
+            {
+                "name": "John",
+                "position": "SDE1",
+                "imageAssetPath": "john.png",
+                "skills": [
+                    "Python",
+                    "Angular",
+                    "Kubernetes"
+                ]
+            },
+            {
+                "name": "Emily",
+                "position": "SDE3",
+                "imageAssetPath": "emily.png",
+                "skills": [
+                    "JavaScript",
+                    "Vue.js",
+                    "AWS"
+                ]
+            },
+            {
+                "name": "David",
+                "position": "SDE2",
+                "imageAssetPath": "david.png",
+                "skills": [
+                    "C++",
+                    "React Native",
+                    "Docker"
+                ]
+            },
+            {
+                "name": "Olivia",
+                "position": "SDE1",
+                "imageAssetPath": "olivia.png",
+                "skills": [
+                    "Java",
+                    "Angular",
+                    "Node.js"
+                ]
+            },
+            {
+                "name": "James",
+                "position": "SDE3",
+                "imageAssetPath": "james.png",
+                "skills": [
+                    "Python",
+                    "React",
+                    "AWS"
+                ]
+            },
+            {
+                "name": "Sophia",
+                "position": "SDE2",
+                "imageAssetPath": "sophia.png",
+                "skills": [
+                    "JavaScript",
+                    "React Native",
+                    "GraphQL"
+                ]
+            },
+            {
+                "name": "Daniel",
+                "position": "SDE1",
+                "imageAssetPath": "daniel.png",
+                "skills": [
+                    "C#",
+                    "Angular",
+                    "Kubernetes"
+                ]
+            },
+            {
+                "name": "Isabella",
+                "position": "SDE3",
+                "imageAssetPath": "isabella.png",
+                "skills": [
+                    "Java",
+                    "Vue.js",
+                    "Docker"
+                ]
+            },
+            {
+                "name": "Michael",
+                "position": "SDE2",
+                "imageAssetPath": "michael.png",
+                "skills": [
+                    "Python",
+                    "React",
+                    "Node.js"
+                ]
+            },
+            {
+                "name": "Ella",
+                "position": "SDE1",
+                "imageAssetPath": "ella.png",
+                "skills": [
+                    "JavaScript",
+                    "React Native",
+                    "AWS"
+                ]
+            },
+            {
+                "name": "William",
+                "position": "SDE2",
+                "imageAssetPath": "william.png",
+                "skills": [
+                    "Python",
+                    "Vue.js",
+                    "Kubernetes"
+                ]
+            },
+            {
+                "name": "Ava",
+                "position": "SDE3",
+                "imageAssetPath": "ava.png",
+                "skills": [
+                    "Java",
+                    "React",
+                    "GraphQL"
+                ]
+            },
+            {
+                "name": "Benjamin",
+                "position": "SDE1",
+                "imageAssetPath": "benjamin.png",
+                "skills": [
+                    "C++",
+                    "Angular",
+                    "Node.js"
+                ]
+            },
+            {
+                "name": "Mia",
+                "position": "SDE2",
+                "imageAssetPath": "mia.png",
+                "skills": [
+                    "JavaScript",
+                    "React Native",
+                    "Docker"
+                ]
+            },
+            {
+                "name": "Ethan",
+                "position": "SDE3",
+                "imageAssetPath": "ethan.png",
+                "skills": [
+                    "Python",
+                    "Vue.js",
+                    "AWS"
+                ]
+            },
+            {
+                "name": "Chloe",
+                "position": "SDE1",
+                "imageAssetPath": "chloe.png",
+                "skills": [
+                    "Java",
+                    "React",
+                    "Node.js"
+                ]
+            },
+            {
+                "name": "Lucas",
+                "position": "SDE2",
+                "imageAssetPath": "lucas.png",
+                "skills": [
+                    "JavaScript",
+                    "Vue.js",
+                    "Kubernetes"
+                ]
+            },
+            {
+                "name": "Grace",
+                "position": "SDE3",
+                "imageAssetPath": "grace.png",
+                "skills": [
+                    "Python",
+                    "React Native",
+                    "GraphQL"
+                ]
+            }
+        ],
+        "shortlisted": [
+            {
+                "name": "Neeraj",
+                "position": "SDE1",
+                "imageAssetPath": "neeraj.png",
+                "skills": [
+                    "JS",
+                    "Flutter",
+                    "AWS"
+                ]
+            },
+            {
+                "name": "John",
+                "position": "SDE2",
+                "imageAssetPath": "john.png",
+                "skills": [
+                    "Python",
+                    "React",
+                    "SQL"
+                ]
+            },
+            {
+                "name": "Sarah",
+                "position": "SDE2",
+                "imageAssetPath": "sarah.png",
+                "skills": [
+                    "Java",
+                    "React",
+                    "Docker"
+                ]
+            },
+            {
+                "name": "John",
+                "position": "SDE1",
+                "imageAssetPath": "john.png",
+                "skills": [
+                    "Python",
+                    "Angular",
+                    "Kubernetes"
+                ]
+            },
+            {
+                "name": "Emily",
+                "position": "SDE3",
+                "imageAssetPath": "emily.png",
+                "skills": [
+                    "JavaScript",
+                    "Vue.js",
+                    "AWS"
+                ]
+            },
+            {
+                "name": "William",
+                "position": "SDE2",
+                "imageAssetPath": "william.png",
+                "skills": [
+                    "Python",
+                    "Vue.js",
+                    "Kubernetes"
+                ]
+            },
+            {
+                "name": "Ava",
+                "position": "SDE3",
+                "imageAssetPath": "ava.png",
+                "skills": [
+                    "Java",
+                    "React",
+                    "GraphQL"
+                ]
+            },
+            {
+                "name": "Benjamin",
+                "position": "SDE1",
+                "imageAssetPath": "benjamin.png",
+                "skills": [
+                    "C++",
+                    "Angular",
+                    "Node.js"
+                ]
+            },
+            {
+                "name": "Mia",
+                "position": "SDE2",
+                "imageAssetPath": "mia.png",
+                "skills": [
+                    "JavaScript",
+                    "React Native",
+                    "Docker"
+                ]
+            },
+            {
+                "name": "Ethan",
+                "position": "SDE3",
+                "imageAssetPath": "ethan.png",
+                "skills": [
+                    "Python",
+                    "Vue.js",
+                    "AWS"
+                ]
+            },
+            {
+                "name": "Chloe",
+                "position": "SDE1",
+                "imageAssetPath": "chloe.png",
+                "skills": [
+                    "Java",
+                    "React",
+                    "Node.js"
+                ]
+            },
+            {
+                "name": "Lucas",
+                "position": "SDE2",
+                "imageAssetPath": "lucas.png",
+                "skills": [
+                    "JavaScript",
+                    "Vue.js",
+                    "Kubernetes"
+                ]
+            },
+            {
+                "name": "Grace",
+                "position": "SDE3",
+                "imageAssetPath": "grace.png",
+                "skills": [
+                    "Python",
+                    "React Native",
+                    "GraphQL"
+                ]
+            }
+        ],
+        "approved": [
+            {
+                "name": "William",
+                "position": "SDE2",
+                "imageAssetPath": "william.png",
+                "skills": [
+                    "Python",
+                    "Vue.js",
+                    "Kubernetes"
+                ]
+            },
+            {
+                "name": "Ava",
+                "position": "SDE3",
+                "imageAssetPath": "ava.png",
+                "skills": [
+                    "Java",
+                    "React",
+                    "GraphQL"
+                ]
+            },
+            {
+                "name": "Benjamin",
+                "position": "SDE1",
+                "imageAssetPath": "benjamin.png",
+                "skills": [
+                    "C++",
+                    "Angular",
+                    "Node.js"
+                ]
+            },
+            {
+                "name": "Mia",
+                "position": "SDE2",
+                "imageAssetPath": "mia.png",
+                "skills": [
+                    "JavaScript",
+                    "React Native",
+                    "Docker"
+                ]
+            }
+        ]
+    },
+    "cloudDeveloper": {
+        "new": [
+            {
+                "name": "Sophia",
+                "position": "Cloud Developer",
+                "imageAssetPath": "sophia.png",
+                "skills": [
+                    "AWS",
+                    "Docker",
+                    "Node.js"
+                ]
+            },
+            {
+                "name": "Lucas",
+                "position": "Cloud Developer",
+                "imageAssetPath": "lucas.png",
+                "skills": [
+                    "Azure",
+                    "Kubernetes",
+                    "Python"
+                ]
+            },
+            {
+                "name": "Chloe",
+                "position": "Cloud Developer",
+                "imageAssetPath": "chloe.png",
+                "skills": [
+                    "Google Cloud",
+                    "Docker",
+                    "JavaScript"
+                ]
+            },
+            {
+                "name": "Noah",
+                "position": "Cloud Developer",
+                "imageAssetPath": "noah.png",
+                "skills": [
+                    "AWS",
+                    "Kubernetes",
+                    "Python"
+                ]
+            },
+            {
+                "name": "Ava",
+                "position": "Cloud Developer",
+                "imageAssetPath": "ava.png",
+                "skills": [
+                    "Google Cloud",
+                    "Docker",
+                    "Java"
+                ]
+            },
+            {
+                "name": "William",
+                "position": "Cloud Developer",
+                "imageAssetPath": "william.png",
+                "skills": [
+                    "Azure",
+                    "Kubernetes",
+                    "JavaScript"
+                ]
+            },
+            {
+                "name": "Mia",
+                "position": "Cloud Developer",
+                "imageAssetPath": "mia.png",
+                "skills": [
+                    "AWS",
+                    "Docker",
+                    "Python"
+                ]
+            },
+            {
+                "name": "Ethan",
+                "position": "Cloud Developer",
+                "imageAssetPath": "ethan.png",
+                "skills": [
+                    "Google Cloud",
+                    "Kubernetes",
+                    "JavaScript"
+                ]
+            },
+            {
+                "name": "Olivia",
+                "position": "Cloud Developer",
+                "imageAssetPath": "olivia.png",
+                "skills": [
+                    "AWS",
+                    "Docker",
+                    "Java"
+                ]
+            },
+            {
+                "name": "Jacob",
+                "position": "Cloud Developer",
+                "imageAssetPath": "jacob.png",
+                "skills": [
+                    "Azure",
+                    "Kubernetes",
+                    "Python"
+                ]
+            },
+            {
+                "name": "Emily",
+                "position": "Cloud Developer",
+                "imageAssetPath": "emily.png",
+                "skills": [
+                    "Google Cloud",
+                    "Docker",
+                    "JavaScript"
+                ]
+            },
+            {
+                "name": "Elijah",
+                "position": "Cloud Developer",
+                "imageAssetPath": "elijah.png",
+                "skills": [
+                    "AWS",
+                    "Kubernetes",
+                    "Java"
+                ]
+            },
+            {
+                "name": "Abigail",
+                "position": "Cloud Developer",
+                "imageAssetPath": "abigail.png",
+                "skills": [
+                    "Google Cloud",
+                    "Docker",
+                    "Python"
+                ]
+            },
+            {
+                "name": "Michael",
+                "position": "Cloud Developer",
+                "imageAssetPath": "michael.png",
+                "skills": [
+                    "Azure",
+                    "Kubernetes",
+                    "JavaScript"
+                ]
+            },
+            {
+                "name": "Elizabeth",
+                "position": "Cloud Developer",
+                "imageAssetPath": "elizabeth.png",
+                "skills": [
+                    "AWS",
+                    "Docker",
+                    "Java"
+                ]
+            },
+            {
+                "name": "Daniel",
+                "position": "Cloud Developer",
+                "imageAssetPath": "daniel.png",
+                "skills": [
+                    "Google Cloud",
+                    "Kubernetes",
+                    "Python"
+                ]
+            },
+            {
+                "name": "Sofia",
+                "position": "Cloud Developer",
+                "imageAssetPath": "sofia.png",
+                "skills": [
+                    "AWS",
+                    "Docker",
+                    "JavaScript"
+                ]
+            }
+        ],
+        "shortlisted": [
+            {
+                "name": "Olivia",
+                "position": "Cloud Developer",
+                "imageAssetPath": "olivia.png",
+                "skills": [
+                    "AWS",
+                    "Docker",
+                    "Java"
+                ]
+            },
+            {
+                "name": "Jacob",
+                "position": "Cloud Developer",
+                "imageAssetPath": "jacob.png",
+                "skills": [
+                    "Azure",
+                    "Kubernetes",
+                    "Python"
+                ]
+            },
+            {
+                "name": "Emily",
+                "position": "Cloud Developer",
+                "imageAssetPath": "emily.png",
+                "skills": [
+                    "Google Cloud",
+                    "Docker",
+                    "JavaScript"
+                ]
+            },
+            {
+                "name": "Elijah",
+                "position": "Cloud Developer",
+                "imageAssetPath": "elijah.png",
+                "skills": [
+                    "AWS",
+                    "Kubernetes",
+                    "Java"
+                ]
+            },
+            {
+                "name": "Abigail",
+                "position": "Cloud Developer",
+                "imageAssetPath": "abigail.png",
+                "skills": [
+                    "Google Cloud",
+                    "Docker",
+                    "Python"
+                ]
+            },
+            {
+                "name": "Michael",
+                "position": "Cloud Developer",
+                "imageAssetPath": "michael.png",
+                "skills": [
+                    "Azure",
+                    "Kubernetes",
+                    "JavaScript"
+                ]
+            },
+            {
+                "name": "Elizabeth",
+                "position": "Cloud Developer",
+                "imageAssetPath": "elizabeth.png",
+                "skills": [
+                    "AWS",
+                    "Docker",
+                    "Java"
+                ]
+            }
+        ],
+        "approved": [
+            {
+                "name": "Olivia",
+                "position": "Cloud Developer",
+                "imageAssetPath": "olivia.png",
+                "skills": [
+                    "AWS",
+                    "Docker",
+                    "Java"
+                ]
+            },
+            {
+                "name": "Jacob",
+                "position": "Cloud Developer",
+                "imageAssetPath": "jacob.png",
+                "skills": [
+                    "Azure",
+                    "Kubernetes",
+                    "Python"
+                ]
+            },
+            {
+                "name": "Emily",
+                "position": "Cloud Developer",
+                "imageAssetPath": "emily.png",
+                "skills": [
+                    "Google Cloud",
+                    "Docker",
+                    "JavaScript"
+                ]
+            },
+            {
+                "name": "Elijah",
+                "position": "Cloud Developer",
+                "imageAssetPath": "elijah.png",
+                "skills": [
+                    "AWS",
+                    "Kubernetes",
+                    "Java"
+                ]
+            }
+        ]
+    },
+    "businessDeveloper": {
+        "new": [
+            {
+                "name": "Sophia",
+                "position": "Business Developer",
+                "imageAssetPath": "sophia.png",
+                "skills": [
+                    "Lead Generation",
+                    "Business Strategy",
+                    "CRM"
+                ]
+            },
+            {
+                "name": "Jackson",
+                "position": "Business Developer",
+                "imageAssetPath": "jackson.png",
+                "skills": [
+                    "Sales Pitching",
+                    "Networking",
+                    "Salesforce"
+                ]
+            },
+            {
+                "name": "Olivia",
+                "position": "Business Developer",
+                "imageAssetPath": "olivia.png",
+                "skills": [
+                    "Marketing Research",
+                    "Consultative Selling",
+                    "CRM"
+                ]
+            },
+            {
+                "name": "Liam",
+                "position": "Business Developer",
+                "imageAssetPath": "liam.png",
+                "skills": [
+                    "Sales",
+                    "Marketing Analytics",
+                    "Hubspot"
+                ]
+            },
+            {
+                "name": "Ava",
+                "position": "Business Developer",
+                "imageAssetPath": "ava.png",
+                "skills": [
+                    "Salesforce",
+                    "Negotiation",
+                    "Customer Relationship Management"
+                ]
+            },
+            {
+                "name": "Lucas",
+                "position": "Business Developer",
+                "imageAssetPath": "lucas.png",
+                "skills": [
+                    "Sales Pitching",
+                    "Lead Qualification",
+                    "Salesforce"
+                ]
+            },
+            {
+                "name": "Mia",
+                "position": "Business Developer",
+                "imageAssetPath": "mia.png",
+                "skills": [
+                    "Cold Calling",
+                    "Networking",
+                    "CRM"
+                ]
+            },
+            {
+                "name": "Noah",
+                "position": "Business Developer",
+                "imageAssetPath": "noah.png",
+                "skills": [
+                    "Marketing",
+                    "Relationship Management",
+                    "Hubspot"
+                ]
+            },
+            {
+                "name": "Charlotte",
+                "position": "Business Developer",
+                "imageAssetPath": "charlotte.png",
+                "skills": [
+                    "Sales",
+                    "Business Development",
+                    "Lead Generation"
+                ]
+            },
+            {
+                "name": "William",
+                "position": "Business Developer",
+                "imageAssetPath": "william.png",
+                "skills": [
+                    "Sales Pitching",
+                    "CRM",
+                    "Product Development"
+                ]
+            }
+        ],
+        "shortlisted": [
+            {
+                "name": "Olivia",
+                "position": "Business Developer",
+                "imageAssetPath": "olivia.png",
+                "skills": [
+                    "Marketing Research",
+                    "Consultative Selling",
+                    "CRM"
+                ]
+            },
+            {
+                "name": "Liam",
+                "position": "Business Developer",
+                "imageAssetPath": "liam.png",
+                "skills": [
+                    "Sales",
+                    "Marketing Analytics",
+                    "Hubspot"
+                ]
+            },
+            {
+                "name": "Ava",
+                "position": "Business Developer",
+                "imageAssetPath": "ava.png",
+                "skills": [
+                    "Salesforce",
+                    "Negotiation",
+                    "Customer Relationship Management"
+                ]
+            }
+        ],
+        "approved": [
+            {
+                "name": "Liam",
+                "position": "Business Developer",
+                "imageAssetPath": "liam.png",
+                "skills": [
+                    "Sales",
+                    "Marketing Analytics",
+                    "Hubspot"
+                ]
+            }
+        ]
+    },
+    "accountsManager": {
+        "new": [
+            {
+                "name": "Emma",
+                "position": "Accounts Manager",
+                "imageAssetPath": "emma.png",
+                "skills": [
+                    "Taxation",
+                    "Payroll Management",
+                    "Excel"
+                ]
+            },
+            {
+                "name": "Sophie",
+                "position": "Accounts Manager",
+                "imageAssetPath": "sophie.png",
+                "skills": [
+                    "Auditing",
+                    "Financial Reporting",
+                    "Tally"
+                ]
+            },
+            {
+                "name": "Isabella",
+                "position": "Accounts Manager",
+                "imageAssetPath": "isabella.png",
+                "skills": [
+                    "Accounts Receivable",
+                    "Budgeting",
+                    "QuickBooks"
+                ]
+            },
+            {
+                "name": "Ava",
+                "position": "Accounts Manager",
+                "imageAssetPath": "ava.png",
+                "skills": [
+                    "Accounts Payable",
+                    "Financial Analysis",
+                    "SAP"
+                ]
+            },
+            {
+                "name": "Mia",
+                "position": "Accounts Manager",
+                "imageAssetPath": "mia.png",
+                "skills": [
+                    "Cost Accounting",
+                    "Inventory Management",
+                    "Xero"
+                ]
+            },
+            {
+                "name": "Lily",
+                "position": "Accounts Manager",
+                "imageAssetPath": "lily.png",
+                "skills": [
+                    "Financial Planning",
+                    "Cash Management",
+                    "MYOB"
+                ]
+            },
+            {
+                "name": "Chloe",
+                "position": "Accounts Manager",
+                "imageAssetPath": "chloe.png",
+                "skills": [
+                    "Internal Controls",
+                    "Financial Modeling",
+                    "Wave"
+                ]
+            },
+            {
+                "name": "Harper",
+                "position": "Accounts Manager",
+                "imageAssetPath": "harper.png",
+                "skills": [
+                    "Payables Management",
+                    "Risk Management",
+                    "Zoho Books"
+                ]
+            },
+            {
+                "name": "Evelyn",
+                "position": "Accounts Manager",
+                "imageAssetPath": "evelyn.png",
+                "skills": [
+                    "Fixed Assets Accounting",
+                    "Revenue Recognition",
+                    "Odoo"
+                ]
+            },
+            {
+                "name": "Abigail",
+                "position": "Accounts Manager",
+                "imageAssetPath": "abigail.png",
+                "skills": [
+                    "Financial Statement Analysis",
+                    "Cost Benefit Analysis",
+                    "Sage"
+                ]
+            }
+        ],
+        "shortlisted": [
+            {
+                "name": "Lily",
+                "position": "Accounts Manager",
+                "imageAssetPath": "lily.png",
+                "skills": [
+                    "Financial Planning",
+                    "Cash Management",
+                    "MYOB"
+                ]
+            },
+            {
+                "name": "Chloe",
+                "position": "Accounts Manager",
+                "imageAssetPath": "chloe.png",
+                "skills": [
+                    "Internal Controls",
+                    "Financial Modeling",
+                    "Wave"
+                ]
+            },
+            {
+                "name": "Harper",
+                "position": "Accounts Manager",
+                "imageAssetPath": "harper.png",
+                "skills": [
+                    "Payables Management",
+                    "Risk Management",
+                    "Zoho Books"
+                ]
+            }
+        ],
+        "approved": [
+            {
+                "name": "Chloe",
+                "position": "Accounts Manager",
+                "imageAssetPath": "chloe.png",
+                "skills": [
+                    "Internal Controls",
+                    "Financial Modeling",
+                    "Wave"
+                ]
+            },
+            {
+                "name": "Harper",
+                "position": "Accounts Manager",
+                "imageAssetPath": "harper.png",
+                "skills": [
+                    "Payables Management",
+                    "Risk Management",
+                    "Zoho Books"
+                ]
+            }
+        ]
+    },
+    "devopsEngineer": {
+        "new": [
+            {
+                "name": "Sarah",
+                "position": "Devops Engineer",
+                "imageAssetPath": "sarah.png",
+                "skills": [
+                    "AWS",
+                    "Terraform",
+                    "Jenkins"
+                ]
+            },
+            {
+                "name": "John",
+                "position": "Devops Engineer",
+                "imageAssetPath": "john.png",
+                "skills": [
+                    "Docker",
+                    "Kubernetes",
+                    "Ansible"
+                ]
+            },
+            {
+                "name": "Emily",
+                "position": "Devops Engineer",
+                "imageAssetPath": "emily.png",
+                "skills": [
+                    "Azure",
+                    "AWS",
+                    "Terraform"
+                ]
+            },
+            {
+                "name": "Michael",
+                "position": "Devops Engineer",
+                "imageAssetPath": "michael.png",
+                "skills": [
+                    "Jenkins",
+                    "Docker",
+                    "Kubernetes"
+                ]
+            },
+            {
+                "name": "Grace",
+                "position": "Devops Engineer",
+                "imageAssetPath": "grace.png",
+                "skills": [
+                    "AWS",
+                    "Terraform",
+                    "Ansible"
+                ]
+            },
+            {
+                "name": "Daniel",
+                "position": "Devops Engineer",
+                "imageAssetPath": "daniel.png",
+                "skills": [
+                    "Kubernetes",
+                    "Docker",
+                    "Azure"
+                ]
+            },
+            {
+                "name": "Lucy",
+                "position": "Devops Engineer",
+                "imageAssetPath": "lucy.png",
+                "skills": [
+                    "AWS",
+                    "Terraform",
+                    "Jenkins"
+                ]
+            },
+            {
+                "name": "Tom",
+                "position": "Devops Engineer",
+                "imageAssetPath": "tom.png",
+                "skills": [
+                    "Kubernetes",
+                    "Ansible",
+                    "Docker"
+                ]
+            },
+            {
+                "name": "Aiden",
+                "position": "Devops Engineer",
+                "imageAssetPath": "aiden.png",
+                "skills": [
+                    "AWS",
+                    "Terraform",
+                    "Jenkins"
+                ]
+            }
+        ],
+        "shortlisted": [
+            {
+                "name": "Michael",
+                "position": "Devops Engineer",
+                "imageAssetPath": "michael.png",
+                "skills": [
+                    "Jenkins",
+                    "Docker",
+                    "Kubernetes"
+                ]
+            },
+            {
+                "name": "Grace",
+                "position": "Devops Engineer",
+                "imageAssetPath": "grace.png",
+                "skills": [
+                    "AWS",
+                    "Terraform",
+                    "Ansible"
+                ]
+            },
+            {
+                "name": "Daniel",
+                "position": "Devops Engineer",
+                "imageAssetPath": "daniel.png",
+                "skills": [
+                    "Kubernetes",
+                    "Docker",
+                    "Azure"
+                ]
+            },
+            {
+                "name": "Lucy",
+                "position": "Devops Engineer",
+                "imageAssetPath": "lucy.png",
+                "skills": [
+                    "AWS",
+                    "Terraform",
+                    "Jenkins"
+                ]
+            },
+            {
+                "name": "Tom",
+                "position": "Devops Engineer",
+                "imageAssetPath": "tom.png",
+                "skills": [
+                    "Kubernetes",
+                    "Ansible",
+                    "Docker"
+                ]
+            }
+        ],
+        "approved": [
+            {
+                "name": "Daniel",
+                "position": "Devops Engineer",
+                "imageAssetPath": "daniel.png",
+                "skills": [
+                    "Kubernetes",
+                    "Docker",
+                    "Azure"
+                ]
+            },
+            {
+                "name": "Lucy",
+                "position": "Devops Engineer",
+                "imageAssetPath": "lucy.png",
+                "skills": [
+                    "AWS",
+                    "Terraform",
+                    "Jenkins"
+                ]
+            }
+        ]
+    },
+    "qualityAssurance": {
+        "new": [
+            {
+                "name": "Neeraj",
+                "position": "Quality Assurance Engineer",
+                "imageAssetPath": "neeraj.png",
+                "skills": [
+                    "Manual testing",
+                    "API Testing",
+                    "Automated Testing"
+                ]
+            },
+            {
+                "name": "Arya",
+                "position": "Quality Assurance Engineer",
+                "imageAssetPath": "arya.png",
+                "skills": [
+                    "Selenium",
+                    "Appium",
+                    "Python"
+                ]
+            },
+            {
+                "name": "John",
+                "position": "Quality Assurance Engineer",
+                "imageAssetPath": "john.png",
+                "skills": [
+                    "Agile",
+                    "JIRA",
+                    "CI/CD"
+                ]
+            },
+            {
+                "name": "Jessica",
+                "position": "Quality Assurance Engineer",
+                "imageAssetPath": "jessica.png",
+                "skills": [
+                    "Load Testing",
+                    "Performance Testing",
+                    "Security Testing"
+                ]
+            },
+            {
+                "name": "David",
+                "position": "Quality Assurance Engineer",
+                "imageAssetPath": "david.png",
+                "skills": [
+                    "Test Planning",
+                    "Regression Testing",
+                    "Defect Tracking"
+                ]
+            },
+            {
+                "name": "Samantha",
+                "position": "Quality Assurance Engineer",
+                "imageAssetPath": "samantha.png",
+                "skills": [
+                    "Test Automation",
+                    "Exploratory Testing",
+                    "Test Strategy"
+                ]
+            },
+            {
+                "name": "Chris",
+                "position": "Quality Assurance Engineer",
+                "imageAssetPath": "chris.png",
+                "skills": [
+                    "Functional Testing",
+                    "Integration Testing",
+                    "Usability Testing"
+                ]
+            },
+            {
+                "name": "Emily",
+                "position": "Quality Assurance Engineer",
+                "imageAssetPath": "emily.png",
+                "skills": [
+                    "Web Testing",
+                    "Mobile Testing",
+                    "Accessibility Testing"
+                ]
+            },
+            {
+                "name": "Brandon",
+                "position": "Quality Assurance Engineer",
+                "imageAssetPath": "brandon.png",
+                "skills": [
+                    "Test Design",
+                    "Risk-Based Testing",
+                    "Non-Functional Testing"
+                ]
+            },
+            {
+                "name": "Rachel",
+                "position": "Quality Assurance Engineer",
+                "imageAssetPath": "rachel.png",
+                "skills": [
+                    "Test Execution",
+                    "Test Analysis",
+                    "Debugging"
+                ]
+            },
+            {
+                "name": "Michael",
+                "position": "Quality Assurance Engineer",
+                "imageAssetPath": "michael.png",
+                "skills": [
+                    "Acceptance Testing",
+                    "End-to-End Testing",
+                    "API Integration Testing"
+                ]
+            },
+            {
+                "name": "Stephanie",
+                "position": "Quality Assurance Engineer",
+                "imageAssetPath": "stephanie.png",
+                "skills": [
+                    "Black Box Testing",
+                    "White Box Testing",
+                    "Gray Box Testing"
+                ]
+            },
+            {
+                "name": "Eric",
+                "position": "Quality Assurance Engineer",
+                "imageAssetPath": "eric.png",
+                "skills": [
+                    "Test Metrics",
+                    "Test Reporting",
+                    "Test Management"
+                ]
+            },
+            {
+                "name": "Megan",
+                "position": "Quality Assurance Engineer",
+                "imageAssetPath": "megan.png",
+                "skills": [
+                    "API Testing",
+                    "Load Testing",
+                    "UI Testing"
+                ]
+            },
+            {
+                "name": "Alex",
+                "position": "Quality Assurance Engineer",
+                "imageAssetPath": "alex.png",
+                "skills": [
+                    "Database Testing",
+                    "Configuration Testing",
+                    "Installation Testing"
+                ]
+            }
+        ],
+        "shortlisted": [
+            {
+                "name": "Emily",
+                "position": "Quality Assurance Engineer",
+                "imageAssetPath": "emily.png",
+                "skills": [
+                    "Web Testing",
+                    "Mobile Testing",
+                    "Accessibility Testing"
+                ]
+            },
+            {
+                "name": "Brandon",
+                "position": "Quality Assurance Engineer",
+                "imageAssetPath": "brandon.png",
+                "skills": [
+                    "Test Design",
+                    "Risk-Based Testing",
+                    "Non-Functional Testing"
+                ]
+            },
+            {
+                "name": "Rachel",
+                "position": "Quality Assurance Engineer",
+                "imageAssetPath": "rachel.png",
+                "skills": [
+                    "Test Execution",
+                    "Test Analysis",
+                    "Debugging"
+                ]
+            },
+            {
+                "name": "Michael",
+                "position": "Quality Assurance Engineer",
+                "imageAssetPath": "michael.png",
+                "skills": [
+                    "Acceptance Testing",
+                    "End-to-End Testing",
+                    "API Integration Testing"
+                ]
+            },
+            {
+                "name": "Stephanie",
+                "position": "Quality Assurance Engineer",
+                "imageAssetPath": "stephanie.png",
+                "skills": [
+                    "Black Box Testing",
+                    "White Box Testing",
+                    "Gray Box Testing"
+                ]
+            },
+            {
+                "name": "Eric",
+                "position": "Quality Assurance Engineer",
+                "imageAssetPath": "eric.png",
+                "skills": [
+                    "Test Metrics",
+                    "Test Reporting",
+                    "Test Management"
+                ]
+            }
+        ],
+        "approved": [
+            {
+                "name": "Michael",
+                "position": "Quality Assurance Engineer",
+                "imageAssetPath": "michael.png",
+                "skills": [
+                    "Acceptance Testing",
+                    "End-to-End Testing",
+                    "API Integration Testing"
+                ]
+            },
+            {
+                "name": "Stephanie",
+                "position": "Quality Assurance Engineer",
+                "imageAssetPath": "stephanie.png",
+                "skills": [
+                    "Black Box Testing",
+                    "White Box Testing",
+                    "Gray Box Testing"
+                ]
+            },
+            {
+                "name": "Eric",
+                "position": "Quality Assurance Engineer",
+                "imageAssetPath": "eric.png",
+                "skills": [
+                    "Test Metrics",
+                    "Test Reporting",
+                    "Test Management"
+                ]
+            }
+        ]
+    }
+}
