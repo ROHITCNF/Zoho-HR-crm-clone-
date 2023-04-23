@@ -1,6 +1,5 @@
 import 'dart:convert';
 
-import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'Data-Models/applicant_status.dart';
@@ -19,9 +18,7 @@ Future<void> testJson() async {
   final file = await rootBundle.loadString('json/data.json');
   final myJson = jsonDecode(file);
   GlobalVariable.applicantStatus = ApplicantStatus.fromJson(myJson);
-  if (kDebugMode) {
-    // print(GlobalVariable.applicantStatus!.softwareDeveloper.New);
-  }
+  //print(GlobalVariable.applicantStatus!.softwareDeveloper.New);
 }
 
 class MyApp extends StatelessWidget {
