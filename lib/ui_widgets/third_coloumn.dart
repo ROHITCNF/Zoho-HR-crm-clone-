@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+import '../GlobalState/jobtypeStateManager.dart';
 import 'Applicant-Type/approved.dart';
 import 'Applicant-Type/new.dart';
 import 'Applicant-Type/shortlisted.dart';
@@ -21,13 +22,42 @@ class ThirdColoumn extends StatelessWidget {
               child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    const Text(
-                      'Software Developer',
-                      style:
-                          TextStyle(fontWeight: FontWeight.bold, fontSize: 30),
+                    ValueListenableBuilder(
+                      valueListenable: jobNotifier,
+                      builder: (context, value, child) {
+                        var name;
+                        switch (value) {
+                          case 0:
+                            name = 'Software Developer';
+                            break;
+                          case 1:
+                            name = 'Cloud Developer';
+                            break;
+                          case 2:
+                            name = 'Buisness Developer';
+                            break;
+                          case 3:
+                            name = 'Accounts Manager';
+                            break;
+                          case 4:
+                            name = 'Devops Engineer';
+                            break;
+                          case 5:
+                            name = 'Quality Assurance';
+                            break;
+                          default:
+                            name = 'Software Developer';
+                            break;
+                        }
+                        return Text(
+                          name,
+                          style: const TextStyle(
+                              fontWeight: FontWeight.bold, fontSize: 30),
+                        );
+                      },
                     ),
                     const Text(
-                      'Your List',
+                      'Your Kanban',
                       style: TextStyle(color: Colors.grey),
                     )
                   ]),
@@ -176,14 +206,6 @@ class ThirdColoumn extends StatelessWidget {
                           decoration: BoxDecoration(
                             color: const Color.fromRGBO(220, 220, 220, 1),
                             borderRadius: BorderRadius.circular(10.0),
-                            // boxShadow: [
-                            //   BoxShadow(
-                            //     color: Colors.grey.withOpacity(0.5),
-                            //     spreadRadius: 2,
-                            //     blurRadius: 5,
-                            //     //offset: Offset(0, 2),
-                            //   ),
-                            // ],
                           ),
                           child: const New())),
                   const SizedBox(

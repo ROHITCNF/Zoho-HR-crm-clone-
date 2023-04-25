@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_application_crm_clone/ui_widgets/middle_bar.dart';
 
-import '../GlobalVariables/global_variable.dart';
 import 'side_bar.dart';
 import 'third_coloumn.dart';
 

@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import '../GlobalState/jobtypeStateManager.dart';
+
 class MiddleBar extends StatelessWidget {
   const MiddleBar({Key? key}) : super(key: key);
 
@@ -52,36 +54,42 @@ class MiddleBar extends StatelessWidget {
         Column(
           children: [
             JobType(
+              id: 0,
               myWidth: myWidth,
               jobTypeText: "Software Developer",
               payScale: "USD 600-800",
               myColor: const Color.fromRGBO(100, 149, 237, 1.0),
             ),
             JobType(
+              id: 1,
               myWidth: myWidth,
               jobTypeText: "Cloud Developer",
               payScale: "USD 600-800",
               myColor: Colors.white,
             ),
             JobType(
+              id: 2,
               myWidth: myWidth,
               jobTypeText: "Buisness Developer",
               payScale: "USD 300-400",
               myColor: Colors.white,
             ),
             JobType(
+              id: 3,
               myWidth: myWidth,
               jobTypeText: "Accounts Manager",
               payScale: "USD 200-300",
               myColor: Colors.white,
             ),
             JobType(
+              id: 4,
               myWidth: myWidth,
               jobTypeText: "Devops Engineer",
               payScale: "USD 700-950",
               myColor: Colors.white,
             ),
             JobType(
+              id: 5,
               myWidth: myWidth,
               jobTypeText: "Quality Assurance",
               payScale: "USD 500-600",
@@ -97,10 +105,12 @@ class MiddleBar extends StatelessWidget {
 class JobType extends StatelessWidget {
   const JobType(
       {super.key,
+      required this.id,
       required this.myWidth,
       required this.jobTypeText,
       required this.payScale,
       required this.myColor});
+  final int id;
   final String jobTypeText;
   final double myWidth;
   final String payScale;
@@ -110,7 +120,7 @@ class JobType extends StatelessWidget {
   Widget build(BuildContext context) {
     return InkWell(
       onTap: () {
-        print(jobTypeText);
+        jobNotifier.value = id;
       },
       child: Container(
         decoration: BoxDecoration(

@@ -39,7 +39,8 @@ class CardArchitecture extends StatelessWidget {
                     decoration: BoxDecoration(
                       borderRadius: BorderRadius.circular(10),
                     ),
-                    child: Image.asset(imageAssetPath)),
+                    child:
+                        Image.asset('assets/ProfilePictures/$imageAssetPath')),
                 title: Text(name),
                 subtitle: Text('$subtitle .'),
               ),
