@@ -51,51 +51,66 @@ class MiddleBar extends StatelessWidget {
           height: 40,
         ),
         //Different types of Jobs
-        Column(
-          children: [
-            JobType(
-              id: 0,
-              myWidth: myWidth,
-              jobTypeText: "Software Developer",
-              payScale: "USD 600-800",
-              myColor: const Color.fromRGBO(100, 149, 237, 1.0),
-            ),
-            JobType(
-              id: 1,
-              myWidth: myWidth,
-              jobTypeText: "Cloud Developer",
-              payScale: "USD 600-800",
-              myColor: Colors.white,
-            ),
-            JobType(
-              id: 2,
-              myWidth: myWidth,
-              jobTypeText: "Buisness Developer",
-              payScale: "USD 300-400",
-              myColor: Colors.white,
-            ),
-            JobType(
-              id: 3,
-              myWidth: myWidth,
-              jobTypeText: "Accounts Manager",
-              payScale: "USD 200-300",
-              myColor: Colors.white,
-            ),
-            JobType(
-              id: 4,
-              myWidth: myWidth,
-              jobTypeText: "Devops Engineer",
-              payScale: "USD 700-950",
-              myColor: Colors.white,
-            ),
-            JobType(
-              id: 5,
-              myWidth: myWidth,
-              jobTypeText: "Quality Assurance",
-              payScale: "USD 500-600",
-              myColor: Colors.white,
-            ),
-          ],
+        ValueListenableBuilder(
+          valueListenable: jobNotifier,
+          builder: (BuildContext context, value, Widget? child) {
+            return Column(
+              children: [
+                JobType(
+                  id: 0,
+                  myWidth: myWidth,
+                  jobTypeText: "Software Developer",
+                  payScale: "USD 600-800",
+                  myColor: value == 0 ? const Color.fromRGBO(100, 149, 237, 1.0): Colors.white,
+                ),
+                JobType(
+                  id: 1,
+                  myWidth: myWidth,
+                  jobTypeText: "Cloud Developer",
+                  payScale: "USD 600-800",
+                  myColor: value == 1
+                      ? const Color.fromRGBO(100, 149, 237, 1.0)
+                      : Colors.white,
+                ),
+                JobType(
+                  id: 2,
+                  myWidth: myWidth,
+                  jobTypeText: "Business Developer",
+                  payScale: "USD 300-400",
+                  myColor: value == 2
+                      ? const Color.fromRGBO(100, 149, 237, 1.0)
+                      : Colors.white,
+                ),
+                JobType(
+                  id: 3,
+                  myWidth: myWidth,
+                  jobTypeText: "Accounts Manager",
+                  payScale: "USD 200-300",
+                  myColor: value == 3
+                      ? const Color.fromRGBO(100, 149, 237, 1.0)
+                      : Colors.white,
+                ),
+                JobType(
+                  id: 4,
+                  myWidth: myWidth,
+                  jobTypeText: "Devops Engineer",
+                  payScale: "USD 700-950",
+                  myColor: value == 4
+                      ? const Color.fromRGBO(100, 149, 237, 1.0)
+                      : Colors.white,
+                ),
+                JobType(
+                  id: 5,
+                  myWidth: myWidth,
+                  jobTypeText: "Quality Assurance",
+                  payScale: "USD 500-600",
+                  myColor: value == 5
+                      ? const Color.fromRGBO(100, 149, 237, 1.0)
+                      : Colors.white,
+                ),
+              ],
+            );
+          },
         ),
       ]),
     );
