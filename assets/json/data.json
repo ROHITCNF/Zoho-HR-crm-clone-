@@ -240,103 +240,97 @@
       {
         "name": "Sophia",
         "position": "Cloud Developer",
-        "imageAssetPath": "sophia.png",
+        "imageAssetPath": "pic1.png",
         "skills": ["AWS", "Docker", "Node.js"]
       },
       {
         "name": "Lucas",
         "position": "Cloud Developer",
-        "imageAssetPath": "lucas.png",
+        "imageAssetPath": "pic2.png",
         "skills": ["Azure", "Kubernetes", "Python"]
       },
       {
         "name": "Chloe",
         "position": "Cloud Developer",
-        "imageAssetPath": "chloe.png",
+        "imageAssetPath": "pic3.png",
         "skills": ["Google Cloud", "Docker", "JavaScript"]
       },
       {
         "name": "Noah",
         "position": "Cloud Developer",
-        "imageAssetPath": "noah.png",
+        "imageAssetPath": "pic4.png",
         "skills": ["AWS", "Kubernetes", "Python"]
       },
       {
         "name": "Ava",
         "position": "Cloud Developer",
-        "imageAssetPath": "ava.png",
+        "imageAssetPath": "pic5.png",
         "skills": ["Google Cloud", "Docker", "Java"]
       },
       {
         "name": "William",
         "position": "Cloud Developer",
-        "imageAssetPath": "william.png",
+        "imageAssetPath": "pic6.png",
         "skills": ["Azure", "Kubernetes", "JavaScript"]
       },
       {
         "name": "Mia",
         "position": "Cloud Developer",
-        "imageAssetPath": "mia.png",
+        "imageAssetPath": "pic1.png",
         "skills": ["AWS", "Docker", "Python"]
       },
       {
         "name": "Ethan",
         "position": "Cloud Developer",
-        "imageAssetPath": "ethan.png",
+        "imageAssetPath": "pic2.png",
         "skills": ["Google Cloud", "Kubernetes", "JavaScript"]
       },
       {
         "name": "Olivia",
         "position": "Cloud Developer",
-        "imageAssetPath": "olivia.png",
+        "imageAssetPath": "pic3.png",
         "skills": ["AWS", "Docker", "Java"]
       },
       {
         "name": "Jacob",
         "position": "Cloud Developer",
-        "imageAssetPath": "jacob.png",
+        "imageAssetPath": "pic4.png",
         "skills": ["Azure", "Kubernetes", "Python"]
       },
       {
         "name": "Emily",
         "position": "Cloud Developer",
-        "imageAssetPath": "emily.png",
+        "imageAssetPath": "pic5.png",
         "skills": ["Google Cloud", "Docker", "JavaScript"]
       },
       {
         "name": "Elijah",
         "position": "Cloud Developer",
-        "imageAssetPath": "elijah.png",
+        "imageAssetPath": "pic6.png",
         "skills": ["AWS", "Kubernetes", "Java"]
       },
       {
         "name": "Abigail",
         "position": "Cloud Developer",
-        "imageAssetPath": "abigail.png",
+        "imageAssetPath": "pic1.png",
         "skills": ["Google Cloud", "Docker", "Python"]
       },
       {
         "name": "Michael",
         "position": "Cloud Developer",
-        "imageAssetPath": "michael.png",
+        "imageAssetPath": "pic2.png",
         "skills": ["Azure", "Kubernetes", "JavaScript"]
       },
       {
         "name": "Elizabeth",
         "position": "Cloud Developer",
-        "imageAssetPath": "elizabeth.png",
+        "imageAssetPath": "pic3.png",
         "skills": ["AWS", "Docker", "Java"]
-      },
-      {
-        "name": "Daniel",
-        "position": "Cloud Developer",
-        "imageAssetPath": "daniel.png",
-        "skills": ["Google Cloud", "Kubernetes", "Python"]
       },
       {
         "name": "Sofia",
         "position": "Cloud Developer",
-        "imageAssetPath": "sofia.png",
+        "imageAssetPath": "pic4.png",
         "skills": ["AWS", "Docker", "JavaScript"]
       }
     ],
@@ -344,70 +338,70 @@
       {
         "name": "Olivia",
         "position": "Cloud Developer",
-        "imageAssetPath": "olivia.png",
+        "imageAssetPath": "pic1.png",
         "skills": ["AWS", "Docker", "Java"]
       },
       {
         "name": "Jacob",
         "position": "Cloud Developer",
-        "imageAssetPath": "jacob.png",
+        "imageAssetPath": "pic2.png",
         "skills": ["Azure", "Kubernetes", "Python"]
       },
       {
         "name": "Emily",
         "position": "Cloud Developer",
-        "imageAssetPath": "emily.png",
+        "imageAssetPath": "pic3.png",
         "skills": ["Google Cloud", "Docker", "JavaScript"]
       },
       {
         "name": "Elijah",
         "position": "Cloud Developer",
-        "imageAssetPath": "elijah.png",
+        "imageAssetPath": "pic4.png",
         "skills": ["AWS", "Kubernetes", "Java"]
       },
       {
         "name": "Abigail",
         "position": "Cloud Developer",
-        "imageAssetPath": "abigail.png",
+        "imageAssetPath": "pic5.png",
         "skills": ["Google Cloud", "Docker", "Python"]
       },
       {
         "name": "Michael",
         "position": "Cloud Developer",
-        "imageAssetPath": "michael.png",
+        "imageAssetPath": "pic6.png",
         "skills": ["Azure", "Kubernetes", "JavaScript"]
       },
       {
         "name": "Elizabeth",
         "position": "Cloud Developer",
-        "imageAssetPath": "elizabeth.png",
+        "imageAssetPath": "pic1.png",
         "skills": ["AWS", "Docker", "Java"]
       }
     ],
     "approved": [
       {
-        "name": "Olivia",
-        "position": "Cloud Developer",
-        "imageAssetPath": "olivia.png",
-        "skills": ["AWS", "Docker", "Java"]
-      },
-      {
         "name": "Jacob",
         "position": "Cloud Developer",
-        "imageAssetPath": "jacob.png",
+        "imageAssetPath": "pic2.png",
         "skills": ["Azure", "Kubernetes", "Python"]
       },
       {
         "name": "Emily",
         "position": "Cloud Developer",
-        "imageAssetPath": "emily.png",
+        "imageAssetPath": "pic3.png",
         "skills": ["Google Cloud", "Docker", "JavaScript"]
       },
       {
         "name": "Elijah",
         "position": "Cloud Developer",
-        "imageAssetPath": "elijah.png",
+        "imageAssetPath": "pic4.png",
         "skills": ["AWS", "Kubernetes", "Java"]
+      },
+      {
+        "name": "Abigail",
+        "position": "Cloud Developer",
+        "imageAssetPath": "pic5.png",
+        "skills": ["Google Cloud", "Docker", "Python"]
       }
     ]
   },
@@ -416,61 +410,61 @@
       {
         "name": "Sophia",
         "position": "Business Developer",
-        "imageAssetPath": "sophia.png",
+        "imageAssetPath": "pic1.png",
         "skills": ["Lead ", "Business ", "CRM"]
       },
       {
         "name": "Jackson",
         "position": "Business Developer",
-        "imageAssetPath": "jackson.png",
+        "imageAssetPath": "pic2.png",
         "skills": ["Sales ", "Network", "Salesforce"]
       },
       {
         "name": "Olivia",
         "position": "Business Developer",
-        "imageAssetPath": "olivia.png",
+        "imageAssetPath": "pic3.png",
         "skills": ["Marketing ", " Selling", "CRM"]
       },
       {
         "name": "Liam",
         "position": "Business Developer",
-        "imageAssetPath": "liam.png",
+        "imageAssetPath": "pic4.png",
         "skills": ["Sales", "Marketing ", "Hubspot"]
       },
       {
         "name": "Ava",
         "position": "Business Developer",
-        "imageAssetPath": "ava.png",
+        "imageAssetPath": "pic5.png",
         "skills": ["Sales", "Negotiation", "Customer"]
       },
       {
         "name": "Lucas",
         "position": "Business Developer",
-        "imageAssetPath": "lucas.png",
+        "imageAssetPath": "pic6.png",
         "skills": ["Sales", "Lead", "Salesforce"]
       },
       {
         "name": "Mia",
         "position": "Business Developer",
-        "imageAssetPath": "mia.png",
+        "imageAssetPath": "pic1.png",
         "skills": ["Call", "Networking", "CRM"]
       },
       {
         "name": "Noah",
         "position": "Business Developer",
-        "imageAssetPath": "noah.png",
+        "imageAssetPath": "pic2.png",
         "skills": ["Marketing", "Relationship Management", "Hubspot"]
       },
       {
         "name": "Charlotte",
         "position": "Business Developer",
-        "imageAssetPath": "charlotte.png",
+        "imageAssetPath": "pic3.png",
         "skills": ["Sales", "Business ", "Lead "]
       },
       {
         "name": "William",
         "position": "Business Developer",
-        "imageAssetPath": "william.png",
+        "imageAssetPath": "pic4.png",
         "skills": ["Sales", "CRM", "Product"]
       }
     ],
@@ -478,19 +472,19 @@
       {
         "name": "Olivia",
         "position": "Business Developer",
-        "imageAssetPath": "olivia.png",
+        "imageAssetPath": "pic5.png",
         "skills": ["Marketing ", "Selling", "CRM"]
       },
       {
         "name": "Liam",
         "position": "Business Developer",
-        "imageAssetPath": "liam.png",
+        "imageAssetPath": "pic6.png",
         "skills": ["Sales", "Analytics", "Hubspot"]
       },
       {
         "name": "Ava",
         "position": "Business Developer",
-        "imageAssetPath": "ava.png",
+        "imageAssetPath": "pic1.png",
         "skills": ["Salesforce", "Negotiation", "CRM"]
       }
     ],
@@ -498,7 +492,7 @@
       {
         "name": "Liam",
         "position": "Business Developer",
-        "imageAssetPath": "liam.png",
+        "imageAssetPath": "pic2.png",
         "skills": ["Sales", "Marketing", "Hubspot"]
       }
     ]
@@ -508,61 +502,61 @@
       {
         "name": "Emma",
         "position": "Accounts Manager",
-        "imageAssetPath": "emma.png",
+        "imageAssetPath": "pic1.png",
         "skills": ["Taxation", "Payroll ", "Excel"]
       },
       {
         "name": "Sophie",
         "position": "Accounts Manager",
-        "imageAssetPath": "sophie.png",
+        "imageAssetPath": "pic2.png",
         "skills": ["Auditing", "Finance", "Tally"]
       },
       {
         "name": "Isabella",
         "position": "Accounts Manager",
-        "imageAssetPath": "isabella.png",
+        "imageAssetPath": "pic3.png",
         "skills": ["Account", "Budget", "Books"]
       },
       {
         "name": "Ava",
         "position": "Accounts Manager",
-        "imageAssetPath": "ava.png",
+        "imageAssetPath": "pic4.png",
         "skills": ["Payable", "Money", "SAP"]
       },
       {
         "name": "Mia",
         "position": "Accounts Manager",
-        "imageAssetPath": "mia.png",
+        "imageAssetPath": "pic5.png",
         "skills": ["Cost", "IV", "SAP"]
       },
       {
         "name": "Lily",
         "position": "Accounts Manager",
-        "imageAssetPath": "lily.png",
+        "imageAssetPath": "pic6.png",
         "skills": [" Plann", "Cash ", "MYOB"]
       },
       {
         "name": "Chloe",
         "position": "Accounts Manager",
-        "imageAssetPath": "chloe.png",
+        "imageAssetPath": "pic1.png",
         "skills": ["Controls", "Financ", "Wave"]
       },
       {
         "name": "Harper",
         "position": "Accounts Manager",
-        "imageAssetPath": "harper.png",
+        "imageAssetPath": "pic2.png",
         "skills": ["Payables", "Risk ", "Zoho"]
       },
       {
         "name": "Evelyn",
         "position": "Accounts Manager",
-        "imageAssetPath": "evelyn.png",
+        "imageAssetPath": "pic3.png",
         "skills": [" Assets ", "Revenue ", "Odoo"]
       },
       {
         "name": "Abigail",
         "position": "Accounts Manager",
-        "imageAssetPath": "abigail.png",
+        "imageAssetPath": "pic4.png",
         "skills": ["Finance", "Cost ", "Sage"]
       }
     ],
@@ -570,19 +564,19 @@
       {
         "name": "Lily",
         "position": "Accounts Manager",
-        "imageAssetPath": "lily.png",
+        "imageAssetPath": "pic5.png",
         "skills": ["Finance", "Cash", "MYOB"]
       },
       {
         "name": "Chloe",
         "position": "Accounts Manager",
-        "imageAssetPath": "chloe.png",
+        "imageAssetPath": "pic6.png",
         "skills": ["Internal", "Finan", "Wave"]
       },
       {
         "name": "Harper",
         "position": "Accounts Manager",
-        "imageAssetPath": "harper.png",
+        "imageAssetPath": "pic1.png",
         "skills": ["Pay", "Risk", "Zoho"]
       }
     ],
@@ -590,71 +584,72 @@
       {
         "name": "Chloe",
         "position": "Accounts Manager",
-        "imageAssetPath": "chloe.png",
+        "imageAssetPath": "pic2.png",
         "skills": ["Internal", "Finance", "Wave"]
       },
       {
         "name": "Harper",
         "position": "Accounts Manager",
-        "imageAssetPath": "harper.png",
+        "imageAssetPath": "pic3.png",
         "skills": ["Payable", "Risk", "Zoho"]
       }
     ]
   },
+
   "devopsEngineer": {
     "new": [
       {
         "name": "Sarah",
         "position": "Devops Engineer",
-        "imageAssetPath": "sarah.png",
+        "imageAssetPath": "pic1.png",
         "skills": ["AWS", "Terraform", "Jenkins"]
       },
       {
         "name": "John",
         "position": "Devops Engineer",
-        "imageAssetPath": "john.png",
+        "imageAssetPath": "pic2.png",
         "skills": ["Docker", "Kubernetes", "Ansible"]
       },
       {
         "name": "Emily",
         "position": "Devops Engineer",
-        "imageAssetPath": "emily.png",
+        "imageAssetPath": "pic3.png",
         "skills": ["Azure", "AWS", "Terraform"]
       },
       {
         "name": "Michael",
         "position": "Devops Engineer",
-        "imageAssetPath": "michael.png",
+        "imageAssetPath": "pic4.png",
         "skills": ["Jenkins", "Docker", "Kubernetes"]
       },
       {
         "name": "Grace",
         "position": "Devops Engineer",
-        "imageAssetPath": "grace.png",
+        "imageAssetPath": "pic5.png",
         "skills": ["AWS", "Terraform", "Ansible"]
       },
       {
         "name": "Daniel",
         "position": "Devops Engineer",
-        "imageAssetPath": "daniel.png",
+        "imageAssetPath": "pic6.png",
         "skills": ["Kubernetes", "Docker", "Azure"]
       },
       {
         "name": "Lucy",
         "position": "Devops Engineer",
-        "imageAssetPath": "lucy.png",
+        "imageAssetPath": "pic1.png",
         "skills": ["AWS", "Terraform", "Jenkins"]
       },
       {
         "name": "Tom",
         "position": "Devops Engineer",
-        "imageAssetPath": "tom.png",
+        "imageAssetPath": "pic2.png",
         "skills": ["Kubernetes", "Ansible", "Docker"]
       },
       {
         "name": "Aiden",
         "position": "Devops Engineer",
-        "imageAssetPath": "aiden.png",
+        "imageAssetPath": "pic3.png",
         "skills": ["AWS", "Terraform", "Jenkins"]
       }
     ],
@@ -662,31 +657,31 @@
       {
         "name": "Michael",
         "position": "Devops Engineer",
-        "imageAssetPath": "michael.png",
+        "imageAssetPath": "pic3.png",
         "skills": ["Jenkins", "Docker", "Kubernetes"]
       },
       {
         "name": "Grace",
         "position": "Devops Engineer",
-        "imageAssetPath": "grace.png",
+        "imageAssetPath": "pic4.png",
         "skills": ["AWS", "Terraform", "Ansible"]
       },
       {
         "name": "Daniel",
         "position": "Devops Engineer",
-        "imageAssetPath": "daniel.png",
+        "imageAssetPath": "pic5.png",
         "skills": ["Kubernetes", "Docker", "Azure"]
       },
       {
         "name": "Lucy",
         "position": "Devops Engineer",
-        "imageAssetPath": "lucy.png",
+        "imageAssetPath": "pic5.png",
         "skills": ["AWS", "Terraform", "Jenkins"]
       },
       {
         "name": "Tom",
         "position": "Devops Engineer",
-        "imageAssetPath": "tom.png",
+        "imageAssetPath": "pic6.png",
         "skills": ["Kubernetes", "Ansible", "Docker"]
       }
     ],
@@ -694,13 +689,13 @@
       {
         "name": "Daniel",
         "position": "Devops Engineer",
-        "imageAssetPath": "daniel.png",
+        "imageAssetPath": "pic6.png",
         "skills": ["Kubernetes", "Docker", "Azure"]
       },
       {
         "name": "Lucy",
         "position": "Devops Engineer",
-        "imageAssetPath": "lucy.png",
+        "imageAssetPath": "pic2.png",
         "skills": ["AWS", "Terraform", "Jenkins"]
       }
     ]
@@ -710,91 +705,91 @@
       {
         "name": "Neeraj",
         "position": "QA Engineer",
-        "imageAssetPath": "neeraj.png",
+        "imageAssetPath": "pic1.png",
         "skills": ["Manual", "API", "Automated"]
       },
       {
         "name": "Arya",
         "position": "QA Engineer",
-        "imageAssetPath": "arya.png",
+        "imageAssetPath": "pic2.png",
         "skills": ["Selenium", "Appium", "Python"]
       },
       {
         "name": "John",
         "position": "QA Engineer",
-        "imageAssetPath": "john.png",
+        "imageAssetPath": "pic3.png",
         "skills": ["Agile", "JIRA", "CI/CD"]
       },
       {
         "name": "Jessica",
         "position": "QA Engineer",
-        "imageAssetPath": "jessica.png",
+        "imageAssetPath": "pic4.png",
         "skills": ["Load", "Perform", "Secure"]
       },
       {
         "name": "David",
         "position": "QA Engineer",
-        "imageAssetPath": "david.png",
+        "imageAssetPath": "pic5.png",
         "skills": ["Test", "Regression", "Defect"]
       },
       {
         "name": "Samantha",
         "position": "QA Engineer",
-        "imageAssetPath": "samantha.png",
+        "imageAssetPath": "pic6.png",
         "skills": ["Test", "Explorat", "Strategy"]
       },
       {
         "name": "Chris",
         "position": "QA Engineer",
-        "imageAssetPath": "chris.png",
+        "imageAssetPath": "pic1.png",
         "skills": ["Functional ", "Integration ", "Usability "]
       },
       {
         "name": "Emily",
         "position": "QA Engineer",
-        "imageAssetPath": "emily.png",
+        "imageAssetPath": "pic2.png",
         "skills": ["Web", "Mobile", "Testing"]
       },
       {
         "name": "Brandon",
         "position": "QA Engineer",
-        "imageAssetPath": "brandon.png",
+        "imageAssetPath": "pic3.png",
         "skills": ["Test ", "Risk", " Testing"]
       },
       {
         "name": "Rachel",
         "position": "QA Engineer",
-        "imageAssetPath": "rachel.png",
+        "imageAssetPath": "pic4.png",
         "skills": ["Test", "Analysis", "Debugg"]
       },
       {
         "name": "Michael",
         "position": "QA Engineer",
-        "imageAssetPath": "michael.png",
+        "imageAssetPath": "pic5.png",
         "skills": ["Test", "End", "API "]
       },
       {
         "name": "Stephanie",
         "position": "QA Engineer",
-        "imageAssetPath": "stephanie.png",
+        "imageAssetPath": "pic6.png",
         "skills": ["Black ", "White", "Gray"]
       },
       {
         "name": "Eric",
         "position": "QA Engineer",
-        "imageAssetPath": "eric.png",
+        "imageAssetPath": "pic1.png",
         "skills": ["Metrics", "Report", "Manage"]
       },
       {
         "name": "Megan",
         "position": "QA Engineer",
-        "imageAssetPath": "megan.png",
+        "imageAssetPath": "pic2.png",
         "skills": ["API ", "Load", "UI"]
       },
       {
         "name": "Alex",
         "position": "QA Engineer",
-        "imageAssetPath": "alex.png",
+        "imageAssetPath": "pic3.png",
         "skills": ["DB", "Config", "Test"]
       }
     ],
@@ -802,37 +797,37 @@
       {
         "name": "Emily",
         "position": "QA Engineer",
-        "imageAssetPath": "emily.png",
+        "imageAssetPath": "pic1.png",
         "skills": ["Web ", "Mobile ", "Test"]
       },
       {
         "name": "Brandon",
         "position": "QA Engineer",
-        "imageAssetPath": "brandon.png",
+        "imageAssetPath": "pic2.png",
         "skills": ["Test", "Risk", "API"]
       },
       {
         "name": "Rachel",
         "position": "QA Engineer",
-        "imageAssetPath": "rachel.png",
+        "imageAssetPath": "pic3.png",
         "skills": ["API", "Load", "Debug"]
       },
       {
         "name": "Michael",
         "position": "QA Engineer",
-        "imageAssetPath": "michael.png",
+        "imageAssetPath": "pic4.png",
         "skills": ["API", "End", "Load"]
       },
       {
         "name": "Stephanie",
         "position": "QA Engineer",
-        "imageAssetPath": "stephanie.png",
+        "imageAssetPath": "pic5.png",
         "skills": ["Black ", "White ", "Gray "]
       },
       {
         "name": "Eric",
         "position": "QA Engineer",
-        "imageAssetPath": "eric.png",
+        "imageAssetPath": "pic6.png",
         "skills": ["Metrics", "Report", "Manag"]
       }
     ],
@@ -840,19 +835,19 @@
       {
         "name": "Michael",
         "position": "QA Engineer",
-        "imageAssetPath": "michael.png",
+        "imageAssetPath": "pic1.png",
         "skills": ["API", "Load", "White"]
       },
       {
         "name": "Stephanie",
         "position": "QA Engineer",
-        "imageAssetPath": "stephanie.png",
+        "imageAssetPath": "pic2.png",
         "skills": ["API", "White ", "Gray "]
       },
       {
         "name": "Eric",
         "position": "QA Engineer",
-        "imageAssetPath": "eric.png",
+        "imageAssetPath": "pic3.png",
         "skills": ["API", "Load", "Grey"]
       }
     ]
