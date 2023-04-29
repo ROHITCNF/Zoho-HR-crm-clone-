@@ -15,7 +15,7 @@ void main() async {
 }
 
 Future<void> testJson() async {
-  final file = await rootBundle.loadString('json/data.json');
+  final file = await rootBundle.loadString('assets/Json/data.json');
   final myJson = jsonDecode(file);
   GlobalVariable.applicantStatus = ApplicantStatus.fromJson(myJson);
   //print(GlobalVariable.applicantStatus!.softwareDeveloper.New);
